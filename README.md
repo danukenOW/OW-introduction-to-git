@@ -7,7 +7,7 @@ It contains files for the "Branches" section of the course.
 
 1. Clone this repository: **git clone git@github.com:danukenOW/OW-introduction-to-git.git** in Git Bash
 
-2. You will then be copying the files contained in this repository to the repo you created in the previous sections
+2. You will then be copying the files contained in this repository to the repo you created in the previous sections (instructions on OpenedX)
 
 ### Questions?
 
